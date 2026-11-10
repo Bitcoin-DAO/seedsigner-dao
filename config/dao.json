@@ -9,6 +9,7 @@
   ],
   "network": "testnet4",
   "site": "https://bitcoin-dao.github.io/seedsigner-dao",
+  "daoId": "39b02358d1748cbfc803df310b5daf3f7e12f517b2bd1d569ee9c8ce1674fffc",
   "passkeyDomain": "bitcoin-dao.github.io",
   "council": [
     {
