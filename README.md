@@ -1,6 +1,6 @@
 # SEEDSIGNER DAO
 
-**This is SEEDSIGNER DAO's own copy of [btc-dao](https://github.com/Bitcoin-DAO/btc-dao) on testnet4,** founded on SeedSigner keys: the mainnet flow with worthless coins (v0.4.0 step 5). 2 of 3, practice votes. It runs btc-dao v0.3.1 plus v0.4.0 work in progress (commit 05ae64f). The site is at **https://bitcoin-dao.github.io/seedsigner-dao** and is built from `config/dao.json` by `.github/workflows/pages.yml`. Code changes are made in btc-dao and pulled in here; only `config/dao.json` and this note are its own (the charter is UNO DAO's, as a stand-in).
+**This is SEEDSIGNER DAO's own copy of [btc-dao](https://github.com/Bitcoin-DAO/btc-dao) on testnet4,** founded on SeedSigner keys: the mainnet flow with worthless coins (v0.4.0 step 5). 2 of 3, practice votes. It runs btc-dao v0.3.1 plus v0.4.0 work in progress (commit 82de001). The site is at **https://bitcoin-dao.github.io/seedsigner-dao** and is built from `config/dao.json` by `.github/workflows/pages.yml`. Code changes are made in btc-dao and pulled in here; only `config/dao.json` and this note are its own (the charter is UNO DAO's, as a stand-in).
 
 **Chain sources:** the DAO's chain gateway first (`btc-dao-gateway`), mempool.space directly as a fallback.
 
